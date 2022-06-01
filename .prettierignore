@@ -1,0 +1,5 @@
+*.yaml
+.husky
+node_modules
+*.md
+vite.config.js
